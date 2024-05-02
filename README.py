@@ -200,7 +200,7 @@
 #      - [x] Português
 #      - [x] Português brasileiro 
 # 
-# Consulte os [problemas abertos](https://github.com/edendenis/k_means_python/issues) para obter uma lista completa dos recursos propostos (e problemas conhecidos).
+# Consulte os [problemas abertos](https://github.com/edendenis/readme_set_up_install_use_google_chrome_in_linux_ubuntu/issues) para obter uma lista completa dos recursos propostos (e problemas conhecidos).
 # 
 # <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 # 
