@@ -40,6 +40,32 @@
 # 
 # _In this document are contained the main commands and settings to set up/install/use the `Google Chrome` on `Linux Ubuntu`._
 
+# ### Construído com
+# 
+# Esta seção deve listar todas as principais estruturas/bibliotecas usadas para inicializar seu projeto. Deixe quaisquer complementos/plugins para a seção de agradecimentos. Aqui estão alguns exemplos.
+# 
+# * [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+# * [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+# 
+# <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+# <!-- COMEÇANDO -->
+# ### Começando
+# 
+# Este é um exemplo de como você pode dar instruções sobre como configurar seu projeto localmente.
+# Para obter uma cópia local instalada e funcionando, siga estas etapas simples de exemplo.
+# 
+# ### Pré-requisitos
+# 
+# Este é um exemplo de como listar os itens necessários para usar o software e como instalá-los.
+# * Python 3.8
+# * Anaconda 24.1.0
+# * Git
+# * IDE para executar o arquivo `.ipynb` (PyCharm, Spyder, VS Code etc.)
+# 
+# <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+# 
+
 # ## Descrição [2]
 # 
 # ### `Google Chrome`
@@ -153,6 +179,47 @@
 #     ```
 #     NÃO há.
 #     ```
+# 
+
+# <!-- LICENÇA -->
+# ## Licença
+# 
+# Distribuído sob a licença MIT. Consulte `LICENSE.txt` para obter mais informações.
+# 
+# <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+# <!-- ROTEIRO -->
+# ## Roteiro
+# 
+# - [x] Adicionar registro de alterações
+# - [x] Adicionar links de volta ao topo
+# - [x] Adicionar modelos adicionais com exemplos
+# - [x] Suporte multilíngue
+#      - [x] Espanhol
+#      - [x] Inglês
+#      - [x] Português
+#      - [x] Português brasileiro 
+# 
+# Consulte os [problemas abertos](https://github.com/edendenis/k_means_python/issues) para obter uma lista completa dos recursos propostos (e problemas conhecidos).
+# 
+# <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+# 
+
+# <!-- CONTRIBUIÇÔES -->
+# ## Contribuições
+# 
+# As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
+# 
+# Se você tiver uma sugestão que possa melhorar isso, bifurque o repositório e crie uma solicitação `pull`. Você também pode simplesmente abrir um problema com a tag “aprimoramento”.
+# Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
+# 
+# 1. Bifurque o projeto
+# 2. Crie sua ramificação de recursos (`git checkout -b feature/AmazingFeature`)
+# 3. Confirme suas alterações (`git commit -m 'Add some AmazingFeature'`)
+# 4. Envie para a filial (`git push origin feature/AmazingFeature`)
+# 5. Abra uma solicitação pull
+# 
+# <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 # 
 
 # ## Referências
