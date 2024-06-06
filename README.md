@@ -41,7 +41,7 @@ _In this document are contained the main commands and settings to set up/install
 
 Esta seção deve listar todas as principais estruturas/bibliotecas usadas para inicializar seu projeto. Deixe quaisquer complementos/plugins para a seção de agradecimentos. Aqui estão alguns exemplos.
 
-* [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+* [![Python 3.8](https://img.shields.io/badge/Python%203.8-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 * [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -68,6 +68,8 @@ Este é um exemplo de como listar os itens necessários para usar o software e c
 ### `Google Chrome`
 
 O `Google Chrome` é um dos navegadores da _web_ mais populares e amplamente utilizados atualmente. Desenvolvido pela Google, ele se destaca por sua velocidade, eficiência e integração com os serviços da Google. O Chrome oferece uma experiência de navegação rápida e suave, suportando uma ampla gama de extensões e aplicativos que o tornam altamente personalizável. Além disso, ele é conhecido por seu robusto sistema de segurança e atualizações automáticas, que ajudam a manter os usuários protegidos contra ameaças _online_. Com recursos como guias separadas em processos independentes e a sincronização de dados entre dispositivos, o `Google Chrome` é uma escolha popular para usuários que buscam uma experiência de navegação confiável e versátil.
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ## Como configurar/instalar o `Google Chrome` no `Linux Ubuntu` [1]
 
@@ -109,6 +111,7 @@ Para configurar o `Google Chrome`, você pode seguir estas etapas:
 
 Isso deve permitir que você instale um arquivo `.deb` no seu sistema Ubuntu. Lembre-se de que os arquivos .deb são pacotes de software específicos para distribuições baseadas no Debian, como o Ubuntu, e geralmente são seguros de usar, especialmente se você os obtiver de fontes confiáveis. No entanto, sempre esteja ciente da origem dos arquivos .deb que você baixa e evite fontes não confiáveis para garantir a segurança do seu sistema.
 
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ### Código completo
 
@@ -128,6 +131,9 @@ Para configurar/instalar o `Google Chrome` no Linux Ubuntu sem precisar digitar 
     sudo dpkg -i google-chrome-stable_current_amd64.deb
     sudo apt install -f
     ```
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
 
 ## Desinstalar o `Google Chrome` no `Linux Ubuntu`
 
@@ -164,6 +170,7 @@ Para desinstalar o `Google Chrome` execute os passos abaixo:
 
 Isso deve desinstalar o `Google Chrome` do seu sistema Ubuntu usando o terminal. Certifique-se de fazer backup dos seus favoritos e dados importantes antes de prosseguir com a desinstalação, caso queira reinstalá-lo posteriormente.
 
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ### Código completo
 
@@ -177,6 +184,7 @@ Para desinstalar o `Google Chrome` no `Linux Ubuntu` sem precisar digitar linha 
     NÃO há.
     ```
 
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 <!-- LICENÇA -->
 ## Licença
@@ -192,12 +200,12 @@ Distribuído sob a licença MIT. Consulte `LICENSE.txt` para obter mais informa�
 - [x] Adicionar links de volta ao topo
 - [x] Adicionar modelos adicionais com exemplos
 - [x] Suporte multilíngue
-     - [x] Espanhol
-     - [x] Inglês
-     - [x] Português
+     - [ ] Espanhol
+     - [ ] Inglês
+     - [ ] Português
      - [x] Português brasileiro 
 
-Consulte os [problemas abertos](https://github.com/edendenis/readme_set_up_install_use_google_chrome_in_linux_ubuntu/issues) para obter uma lista completa dos recursos propostos (e problemas conhecidos).
+Consulte os [problemas abertos](https://github.com/edendenis/google_chrome/issues) para obter uma lista completa dos recursos propostos (e problemas conhecidos).
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
@@ -219,9 +227,29 @@ Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 
+<!-- ACKNOWLEDGMENTS -->
+## Agradecimentos
+
+* [Best README Template](https://github.com/othneildrew/Best-README-Template?tab=readme-ov-file)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+
 ## Referências
 
 [1] OPENAI. ***Instalar Google Chrome via Terminal.*** Disponível em: <https://chat.openai.com/c/4ed19d31-b772-4cad-9cbb-b85f2f125b83> (texto adaptado). Acessado em: 14/11/2023 09:33.
 
 [2] OPENAI. ***Vs code: editor popular.*** Disponível em: <https://chat.openai.com/c/b640a25d-f8e3-4922-8a3b-ed74a2657e42> (texto adaptado). Acessado em: 14/11/2023 09:33.
+
+[3] USER: OTHNEILDREW. ***Best readme template.*** Disponível em: <https://github.com/othneildrew/Best-README-Template>. Seaborn team. Acessado em: 23/02/2024 11:27.
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
