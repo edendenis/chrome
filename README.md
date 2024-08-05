@@ -42,6 +42,7 @@ _In this document are contained the main commands and settings to set up/install
 Esta seção deve listar todas as principais estruturas/bibliotecas usadas para inicializar seu projeto. Deixe quaisquer complementos/plugins para a seção de agradecimentos. Aqui estão alguns exemplos.
 
 * [![Python 3.8](https://img.shields.io/badge/Python%203.8-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+
 * [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -56,8 +57,11 @@ Para obter uma cópia local instalada e funcionando, siga estas etapas simples d
 
 Este é um exemplo de como listar os itens necessários para usar o software e como instalá-los.
 * Python 3.8
+
 * Anaconda 24.1.0
+
 * Git
+
 * IDE para executar o arquivo `.ipynb` (PyCharm, Spyder, VS Code etc.)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -113,9 +117,9 @@ Isso deve permitir que você instale um arquivo `.deb` no seu sistema Ubuntu. Le
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-### Código completo
+### Código completo para configurar/instalar/usar
 
-Para configurar/instalar o `Google Chrome` no Linux Ubuntu sem precisar digitar linha por linha, você pode seguir estas etapas:
+Para configurar/instalar/usar o `Google Chrome` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 
 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
 
@@ -126,6 +130,10 @@ Para configurar/instalar o `Google Chrome` no Linux Ubuntu sem precisar digitar 
     sudo apt autoclean
     sudo apt autoremove -y
     sudo apt update
+    sudo apt --fix-broken install
+    sudo apt clean
+    sudo apt list --upgradable
+    sudo apt full-upgrade -y
     sudo apt install snapd -y
     wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
     sudo dpkg -i google-chrome-stable_current_amd64.deb
@@ -172,7 +180,7 @@ Isso deve desinstalar o `Google Chrome` do seu sistema Ubuntu usando o terminal.
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-### Código completo
+### Código completo para desinstalar
 
 Para desinstalar o `Google Chrome` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 
@@ -197,12 +205,19 @@ Distribuído sob a licença MIT. Consulte `LICENSE.txt` para obter mais informa�
 ## Roteiro
 
 - [x] Adicionar registro de alterações
+
 - [x] Adicionar links de volta ao topo
+
 - [x] Adicionar modelos adicionais com exemplos
+
 - [x] Suporte multilíngue
+
      - [ ] Espanhol
+
      - [ ] Inglês
+
      - [ ] Português
+     
      - [x] Português brasileiro 
 
 Consulte os [problemas abertos](https://github.com/edendenis/google_chrome/issues) para obter uma lista completa dos recursos propostos (e problemas conhecidos).
@@ -219,9 +234,13 @@ Se você tiver uma sugestão que possa melhorar isso, bifurque o repositório e 
 Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 
 1. Bifurque o projeto
+
 2. Crie sua ramificação de recursos (`git checkout -b feature/AmazingFeature`)
+
 3. Confirme suas alterações (`git commit -m 'Add some AmazingFeature'`)
+
 4. Envie para a filial (`git push origin feature/AmazingFeature`)
+
 5. Abra uma solicitação pull
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -231,13 +250,21 @@ Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 ## Agradecimentos
 
 * [Best README Template](https://github.com/othneildrew/Best-README-Template?tab=readme-ov-file)
+
 * [Choose an Open Source License](https://choosealicense.com)
+
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
+
 * [Img Shields](https://shields.io)
+
 * [GitHub Pages](https://pages.github.com)
+
 * [Font Awesome](https://fontawesome.com)
+
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -245,7 +272,7 @@ Não se esqueça de dar uma estrela ao projeto! Obrigado novamente!
 
 ## Referências
 
-[1] OPENAI. ***Instalar Google Chrome via Terminal.*** Disponível em: <https://chat.openai.com/c/4ed19d31-b772-4cad-9cbb-b85f2f125b83> (texto adaptado). Acessado em: 14/11/2023 09:33.
+[1] OPENAI. ***Instalar google chrome via terminal.*** Disponível em: <https://chat.openai.com/c/4ed19d31-b772-4cad-9cbb-b85f2f125b83> (texto adaptado). Acessado em: 14/11/2023 09:33.
 
 [2] OPENAI. ***Vs code: editor popular.*** Disponível em: <https://chat.openai.com/c/b640a25d-f8e3-4922-8a3b-ed74a2657e42> (texto adaptado). Acessado em: 14/11/2023 09:33.
 
